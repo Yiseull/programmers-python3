@@ -21,3 +21,7 @@ Python3
 + 탐욕법(Greedy)
   + Level 1
     + [체육복](https://github.com/Yiseull/programmers-python3/blob/master/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)
++ 동적계획법(Dynamic Programming)
+  + Level 3
+    + [정수 삼각형](https://github.com/Yiseull/programmers-python3/blob/master/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.py)
+    + [등굣길](https://github.com/Yiseull/programmers-python3/blob/master/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95(Dynamic%20Programming)/%EB%93%B1%EA%B5%A3%EA%B8%B8.py)
