@@ -18,6 +18,8 @@ Python3
 + 완전탐색
   + Level 1
     + [최소직사각형](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py)
+  + Level 2
+    + [피로도](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%ED%94%BC%EB%A1%9C%EB%8F%84.py)
 + 탐욕법(Greedy)
   + Level 1
     + [체육복](https://github.com/Yiseull/programmers-python3/blob/master/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)
