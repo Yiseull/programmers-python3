@@ -20,6 +20,7 @@ Python3
     + [최소직사각형](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py)
   + Level 2
     + [피로도](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%ED%94%BC%EB%A1%9C%EB%8F%84.py)
+    + [모음사전](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.py)
 + 탐욕법(Greedy)
   + Level 1
     + [체육복](https://github.com/Yiseull/programmers-python3/blob/master/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)
@@ -30,3 +31,9 @@ Python3
 + 이분탐색
   + Level 3
     + [입국심사](https://github.com/Yiseull/programmers-python3/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)
++ 월간 코드 챌린지 시즌1
+  + Level 2
+    + [쿼드압축 후 개수 세기](https://github.com/Yiseull/programmers-python3/blob/master/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C1/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.py)
++ 연습문제
+  + Level 3
+    + [하노이의 탑](https://github.com/Yiseull/programmers-python3/blob/master/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py)
