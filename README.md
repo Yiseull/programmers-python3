@@ -15,10 +15,16 @@ Python3
     + [완주하지 못한 선수](https://github.com/Yiseull/programmers-python3/blob/master/%ED%95%B4%EC%8B%9C/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py)
   + Level 2
     + [전화번호 목록](https://github.com/Yiseull/programmers-python3/blob/master/%ED%95%B4%EC%8B%9C/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)
++ 정렬
+  + Level 2
+    + [가장 큰 수](https://github.com/Yiseull/programmers-python3/blob/master/%EC%A0%95%EB%A0%AC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)
+    + [H-Index](https://github.com/Yiseull/programmers-python3/blob/master/%EC%A0%95%EB%A0%AC/H-index.py)
 + 완전탐색
   + Level 1
     + [최소직사각형](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py)
   + Level 2
+    + [소수 찾기](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py)
+    + [카펫](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%B9%B4%ED%8E%AB.py)
     + [피로도](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%ED%94%BC%EB%A1%9C%EB%8F%84.py)
     + [모음사전](https://github.com/Yiseull/programmers-python3/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.py)
 + 탐욕법(Greedy)
