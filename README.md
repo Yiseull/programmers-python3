@@ -9,6 +9,7 @@ Python3
 
 + KAKAO BLIND RECRUITMENT
   + [실패율](https://github.com/Yiseull/programmers-python3/blob/master/KAKAO%20BLIND%20RECRUITMENT/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
+  + [메뉴 리뉴얼](https://github.com/Yiseull/programmers-python3/blob/master/KAKAO%20BLIND%20RECRUITMENT/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.py)
 + 해시
   + Level 1
     + [포켓몬](https://github.com/Yiseull/programmers-python3/blob/master/%ED%95%B4%EC%8B%9C/%ED%8F%AC%EC%BC%93%EB%AA%AC.py)
