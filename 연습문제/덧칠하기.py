@@ -3,8 +3,8 @@ def solution(n, m, section):
 
     cur = 0
     for per in section:
-        if cur < per:
-            cur = per + m - 1
+        if cur <= per:
+            cur = per + m
             answer += 1
 
     return answer
