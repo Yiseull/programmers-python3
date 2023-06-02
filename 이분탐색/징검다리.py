@@ -2,7 +2,7 @@ def solution(distance, rocks, n):
     rocks.append(distance)
     rocks.sort()
 
-    start, end = 0, 1000000000
+    start, end = 1, distance + 1
     while start < end:
         mid = (start + end) // 2
 
