@@ -31,6 +31,3 @@ def solution(expression):
         answer = max(answer, cal(arr, per))
 
     return answer
-
-
-print(solution("100-200*300-500+20"))
