@@ -10,6 +10,9 @@ Python3
 + KAKAO BLIND RECRUITMENT
   + [실패율](https://github.com/Yiseull/programmers-python3/blob/master/KAKAO%20BLIND%20RECRUITMENT/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
   + [메뉴 리뉴얼](https://github.com/Yiseull/programmers-python3/blob/master/KAKAO%20BLIND%20RECRUITMENT/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.py)
+  + [[1차] 캐시](https://github.com/Yiseull/programmers-python3/blob/master/KAKAO%20BLIND%20RECRUITMENT/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.py)
++ 2020 카카오 인턴십
+  + [수식 최대화](https://github.com/Yiseull/programmers-python3/blob/master/2020%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.py)
 + 해시
   + Level 1
     + [포켓몬](https://github.com/Yiseull/programmers-python3/blob/master/%ED%95%B4%EC%8B%9C/%ED%8F%AC%EC%BC%93%EB%AA%AC.py)
@@ -38,9 +41,18 @@ Python3
 + 이분탐색
   + Level 3
     + [입국심사](https://github.com/Yiseull/programmers-python3/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)
+  + Level 4
+    + [징검다리](https://github.com/Yiseull/programmers-python3/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.py)
 + 월간 코드 챌린지 시즌1
   + Level 2
     + [쿼드압축 후 개수 세기](https://github.com/Yiseull/programmers-python3/blob/master/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C1/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%20%ED%9B%84%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.py)
++ 월간 코드 챌린지 시즌1
+  + Level 2
+    + [n^2 배열 자르기](https://github.com/Yiseull/programmers-python3/blob/master/%EC%9B%94%EC%B9%B8%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C3/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
 + 연습문제
+  + Level 1
+    + [덧칠하기](https://github.com/Yiseull/programmers-python3/blob/master/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.py)
+  + Level 2
+    + [피보나치 수](https://github.com/Yiseull/programmers-python3/blob/master/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.py)
   + Level 3
     + [하노이의 탑](https://github.com/Yiseull/programmers-python3/blob/master/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py)
