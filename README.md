@@ -11,6 +11,7 @@ Python3
   + [실패율](https://github.com/Yiseull/programmers-python3/blob/master/KAKAO%20BLIND%20RECRUITMENT/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
   + [메뉴 리뉴얼](https://github.com/Yiseull/programmers-python3/blob/master/KAKAO%20BLIND%20RECRUITMENT/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.py)
   + [[1차] 캐시](https://github.com/Yiseull/programmers-python3/blob/master/KAKAO%20BLIND%20RECRUITMENT/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.py)
+  + [[1차] 뉴스 클러스터링](https://github.com/Yiseull/programmers-python3/blob/master/KAKAO%20BLIND%20RECRUITMENT/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py)
 + 2019 카카오 개발자 겨울 인턴십
   + Level 2
     + [튜플](https://github.com/Yiseull/programmers-python3/blob/master/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%ED%8A%9C%ED%94%8C.py)
@@ -26,6 +27,8 @@ Python3
 + 스택/큐
   + Level 2
     + [기능개발](https://github.com/Yiseull/programmers-python3/blob/master/%EC%8A%A4%ED%83%9D%26%ED%81%90/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
+  + Level 3
+    + [프로세스](https://github.com/Yiseull/programmers-python3/blob/master/%EC%8A%A4%ED%83%9D%26%ED%81%90/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.py)
 + 정렬
   + Level 2
     + [가장 큰 수](https://github.com/Yiseull/programmers-python3/blob/master/%EC%A0%95%EB%A0%AC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py)
@@ -65,3 +68,4 @@ Python3
     + [연속 부분 수열 합의 개수](https://github.com/Yiseull/programmers-python3/blob/master/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.py)
   + Level 3
     + [하노이의 탑](https://github.com/Yiseull/programmers-python3/blob/master/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.py)
+    + [할인 행사](https://github.com/Yiseull/programmers-python3/blob/master/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.py)
